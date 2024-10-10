@@ -12,8 +12,6 @@ Here are my GitHub stats & analytics:</br>
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kyuzan0&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </a>
 </p> 
-      
-**Thank you very much!**
 
 
 <!--
