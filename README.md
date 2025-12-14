@@ -1,30 +1,26 @@
-### Hello, I'm Kyuzan! 👋 
+# Hi, I'm Kyuzan
 
-----
-Thank you for viewing my profile, fellow watchers.</br></br>
-<img alt="views" src="https://komarev.com/ghpvc/?username=Kyuzan0&color=0b5394" />
+Terima kasih sudah mampir.
 
-Here are my GitHub stats & analytics:</br>
- 
-<p align="left" class="d-flex justify-content-center align-items-center">
-<a href="https://github.com/Kyuzan0">
-<img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyuzan0&theme=tokyonight" /> 
-<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kyuzan0&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-</a>
-</p> 
+Thanks for stopping by.
 
+![Profile views](https://komarev.com/ghpvc/?username=Kyuzan0&color=0b5394)
 
-<!--
-**Kyuzan0/Kyuzan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About / Tentang
 
-Here are some ideas to get you started:
+- I like building small projects and learning new things.
+	- Saya suka membuat proyek-proyek kecil dan terus belajar hal baru.
+- Interested in: Windows app development, web development, and networking.
+	- Tertarik pada: pengembangan aplikasi Windows, pengembangan web, dan jaringan.
+- Currently learning: Windows application development with Rust.
+	- Saat ini belajar: pengembangan aplikasi Windows dengan Rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kyuzan0&theme=tokyonight)](https://github.com/Kyuzan0)
+
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kyuzan0&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)](https://github.com/Kyuzan0)
+
+## Links / Tautan
+
+- GitHub: https://github.com/Kyuzan0
